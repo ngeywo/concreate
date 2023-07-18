@@ -1,0 +1,61 @@
+body{
+  font-family: 'Poppins', sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+}
+h3{
+  color: 	#4682B4;
+}
+h5{
+  color: #000000;
+  font-weight: 600;
+}
+.navbar-brand {
+    padding: 0;
+  }
+  .about{
+    padding: 50px 50px 50px 0px;                                                                                                                                                                                0px;
+
+  }
+  
+  .navbar-brand img {
+    height: auto;
+    max-width: 300px;
+  }
+  .row .hero{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-bottom: 2px;
+  }
+  .hero h3{
+    font-size: 45px;
+    font-weight: 600;
+  }
+  .btn{
+    align-self: center;
+    border-radius: 15px;
+    width: 200px;
+    height: 50px;
+    padding: 2px;                           
+   
+  }
+.nav-item {
+    color: #000000;
+    font-size: 24px;
+  
+  }
+  .card{
+    background-color: #ffffff;
+  }
+  .card .card-title{
+    color:  #000000;
+  }
+  .footer{
+    border-width: 2px;
+    border-top: 2px;
+  }
+  .footer img{
+    height: auto;
+    width: 200px;
+    padding: 0;
+  }
